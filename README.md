@@ -1,7 +1,6 @@
 ### Hello, World!
 - 🔭 I’m currently working on... stuff
-- 🌱 I’m currently learning things
-- CALL ME IF YOU GET LOST
+- 🌱 I’m currently learning PyQt
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enoch02&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
