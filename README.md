@@ -1,5 +1,5 @@
 ### Hello, World!
-- 🔭 I’m currently working on... stuff
+- 🔭 I’m currently working on ![MTPExplorer](https://github.com/Enoch02/MTPExplorer) and ![LiteraryLinc ](https://github.com/Enoch02/LiteraryLinc)
 - 🌱 I’m currently learning... stuff
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enoch02&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
