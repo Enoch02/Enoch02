@@ -1,6 +1,8 @@
 # Hello, World!
 - 🔭 I’m currently working on [LiteraryLinc](https://github.com/Enoch02/LiteraryLinc) (sometimes..)
-- 🌱 I’m currently learning New Things!
+- 🌱 I currently use
+  - Jetpack Compose, SwiftUI, and Kotlin Multiplatform Mobile for mobile dev.
+  - Kotlin, Python and C++ for programming exercises.
 - 💻 Check out this [blog](https://enoch02devdiary.wordpress.com) i'm working on. Writing is really hard!
 
 ## I don't know everything, i just know what i know
